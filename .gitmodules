@@ -1,0 +1,6 @@
+[submodule "EFUS"]
+	path = EFUS
+	url = git@github.com:mozdas/EFUS.git
+[submodule "Intan_Modification"]
+	path = Intan_Modification
+	url = git@github.com:mozdas/Intan_Modification.git
